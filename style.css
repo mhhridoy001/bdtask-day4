@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.first-left{
+	width: 70%;
+	float: left;
+	height: 550px;
+}
+.fileft-top{
+	background: orange;
+	height: 350px;
+}
+.lefttop1{
+	height: 350px;
+	width: 50%;
+	background: black;
+	float: left;
+}
+.leto1{
+	height: 200px;
+	background: orange;
+}
+.leto2{
+	height: 150px;
+	background: gray;
+}
+.lefttop2{
+	height: 350px;
+	width: 50%;
+	background: navy;
+	overflow: hidden;
+}
+.fileft-bottom{
+	background: red;
+	height: 200px;
+}
+.bottom1{
+	height: 200px;
+	width: 30%;
+	background: #000;
+}
+.first-right{
+	height: 550px;
+	width: 30%;
+	overflow: hidden;
+}
+.firight-top{
+	height: 150px;
+	background: black;
+}
+.firight-middle{
+	height: 250px;
+	background: green;
+}
+.firight-bottom{
+	height: 150px;
+	background: black;
+}
+
+.second-sec{
+	height: 100px;
+}
+.second-left{
+	height: 100px;
+	width: 50%;
+	background: orange;
+	float: left;
+}
+.second-right{
+	height: 100px;
+	width: 50%;
+	background: green;
+	overflow: hidden;
+}
